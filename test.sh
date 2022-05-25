@@ -1,3 +1,4 @@
 ls 
 pwd
 history
+ls
