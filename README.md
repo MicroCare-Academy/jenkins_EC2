@@ -7,7 +7,9 @@ sh030348/sh030348
 Pipeline Syntax:
 
 https://www.jenkins.io/doc/book/pipeline/syntax/
+
 https://www.jenkins.io/doc/book/pipeline/jenkinsfile/
+
 https://www.jenkins.io/doc/pipeline/steps/workflow-basic-steps/
 
 
