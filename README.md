@@ -14,3 +14,8 @@ https://www.jenkins.io/doc/pipeline/steps/workflow-basic-steps/
 
 
 
+
+sample:
+https://github.com/jenkinsci/pipeline-examples/tree/master/declarative-examples/simple-examples
+
+
